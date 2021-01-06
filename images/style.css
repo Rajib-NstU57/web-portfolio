@@ -26,3 +26,28 @@ width: 100%;
 section{
     height:500px;
 }
+.link-button{
+text-decoration: none;
+background-image:linear-gradient(45deg,rgb(13, 0, 129),rgb(245, 16, 9));
+padding: 10px 15px;
+border-radius: 5px;
+color: papayawhip;
+
+
+}
+section{
+    height: 400px;
+    padding-bottom: 150px;
+}
+.link-button2{
+    text-decoration: none;
+    background-image:linear-gradient(45deg,rgb(0, 3, 153),rgb(245, 13, 13));
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: papayawhip;
+    }
+   .dream-area{
+       background-image: url("dream-bg.png");
+       background-repeat: no-repeat;
+       background-position: right;
+    }
